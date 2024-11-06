@@ -3,6 +3,7 @@
 <img src="https://github.com/OpenBB-finance/OpenBB/blob/develop/images/platform-dark.svg?raw=true#gh-dark-mode-only" alt="OpenBB Platform logo" width="600">
 <br />
 <br />
+#Open BB by Mudassir Alam
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/openbb_finance.svg?style=social&label=Follow%20%40openbb_finance)](https://x.com/openbb_finance)
 [![Discord Shield](https://discordapp.com/api/guilds/831165782750789672/widget.png?style=shield)](https://discord.com/invite/xPHTuHCmuV)
