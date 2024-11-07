@@ -50,6 +50,7 @@ We also have an open source AI financial analyst agent that can access all the d
 </details>
 
 ## 1. Installation
+## By Mudassir Alam
 
 The OpenBB Platform can be installed as a [PyPI package](https://pypi.org/project/openbb/) by running `pip install openbb`
 
